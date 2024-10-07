@@ -9,5 +9,6 @@ flowchart TD
     Check -->|Too Low| Hint2[("Provide hint: Guess higher")]
     Hint1 --> Input
     Hint2 --> Input
+    END
 
 # Process
