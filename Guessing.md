@@ -10,5 +10,4 @@ flowchart TD
     Hint1 --> Input
     Hint2 --> Input
 
-## Process Description
 
